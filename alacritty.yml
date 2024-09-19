@@ -6,7 +6,7 @@ shell:
  #
  # Directory the shell is started in. If this is unset, or `None`, the working
  # directory of the parent process will be used.
-working_directory: C:\\Users\\joelp\\
+working_directory: C:\\Users\\you\\
 
 background_opacity: 0.50
 
